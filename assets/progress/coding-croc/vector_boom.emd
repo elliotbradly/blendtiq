@@ -1,0 +1,13 @@
+[Info]
+Version = 3
+
+[Effect]
+Obj = none
+Obj[0] = images\skin.fx
+Obj[1] = images\cloth.fx
+Obj[2] = images\default.fx
+Obj[3] = images\default.fx
+Obj[4] = images\eyes.fx
+Obj[5] = images\skin.fx
+Obj[6] = images\skin.fx
+
